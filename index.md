@@ -6,16 +6,18 @@
 ###### Six hashtags
 
 ![Lemmy](https://i.ibb.co/MpKS7ZC/9k.jpg)
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+
 ```
- 
-```python
-s = "Python syntax highlighting"
-print s
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-```C++
-string s ("C++ syntax highlighting");
-printf ("%s\n", s);
+```
+$ git status -v
+Displays paths that have differences between the index file and the current HEAD commit, paths that have differences between the working tree and the index file, and paths in the working tree that are not tracked by Git (and are not ignored by gitignore[5]).
+```
+
+```
+$ git branch -a
+List all branches (local and remote).
+```
