@@ -21,3 +21,8 @@ Displays paths that have differences between the index file and the current HEAD
 $ git branch -a
 List all branches (local and remote).
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Practice GitHub
